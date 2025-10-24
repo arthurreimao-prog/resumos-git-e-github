@@ -2,7 +2,7 @@
 
 Repositório para armazemar resumos de Git e GitHub
 
-[DIO](https://www.dio.me)
+[Its me DIO](https://www.dio.me)
 
 ## 📚Documentação
 - [Documentação Git](https://git-scm.com/docs)
